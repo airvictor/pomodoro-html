@@ -1,11 +1,11 @@
 # Pomodoro Timer
 
+[En] (README.md) · [Fr] (README_fr.md) · [中] (README_zh-CN.md)
+
 A minimalist Pomodoro timer with a beautiful 7-segment digital clock display, weather widget, and customizable focus/break durations.
 
 ![Theme](https://img.shields.io/badge/theme-light%2Fdark-cyan)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-
-[En] (README.md) · [Fr] (README_fr.md) · [中] (README_zh-CN.md)
 
 ## Features
 
