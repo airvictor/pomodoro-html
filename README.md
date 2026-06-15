@@ -2,7 +2,7 @@
 
 A minimalist Pomodoro timer with a beautiful 7-segment digital clock display, weather widget, and customizable focus/break durations.
 
-[En] (README.md) · [Fr] (README_fr.md) · [中] (README_zh-CN.md)
+[English](README.md) · [Français](README_fr.md) · [中文](README_zh-CN.md)
 
 ![Theme](https://img.shields.io/badge/theme-light%2Fdark-cyan)
 ![License](https://img.shields.io/badge/license-MIT-blue)
