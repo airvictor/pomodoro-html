@@ -2,6 +2,8 @@
 
 一款极简风格的 Pomodoro 计时器，采用精美的七段数码管显示、天气小组件，并支持自定义专注/休息时长。
 
+[English](README.md) · [Français](README_fr.md) · [中文](README_zh-CN.md)
+
 ![Theme](https://img.shields.io/badge/theme-light%2Fdark-cyan)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
