@@ -2,6 +2,8 @@
 
 Un minuteur Pomodoro minimaliste avec un magnifique affichage d'horloge numérique à sept segments, un widget météo et des durées personnalisables pour la concentration et les pauses.
 
+[English](README.md) · [Français](README_fr.md) · [中文](README_zh-CN.md)
+
 ![Theme](https://img.shields.io/badge/theme-light%2Fdark-cyan)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
