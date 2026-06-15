@@ -5,6 +5,8 @@ A minimalist Pomodoro timer with a beautiful 7-segment digital clock display, we
 ![Theme](https://img.shields.io/badge/theme-light%2Fdark-cyan)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+[En] (README.md) · [Fr] (README_fr.md) · [Fr] (README_zh-CN.md)
+
 ## Features
 
 - **Multiple Timer Modes**: 60 min, 40 min (default), 15 min, and 5 min presets
