@@ -9,32 +9,36 @@ A minimalist Pomodoro timer with a beautiful 7-segment digital clock display, we
 
 ## Features
 
-- **Multiple Timer Modes**: 60 min, 40 min (default), 15 min, and 5 min presets
-- **Custom Duration**: Adjust timer length directly (1-120 minutes)
-- **7-Segment Digital Clock**: Real-time clock with classic LED-style display
+- **Multiple Timer Modes**: 60 min, 40 min (default), 15 min, and 5 min presets (all customizable)
+- **Custom Duration**: Adjust timer length directly (minimum 1 minute, no maximum)
+- **7-Segment Digital Clock**: Real-time clock with classic LED-style display showing date
 - **Session Tracking**: Visual progress dots show completed focus sessions
 - **Weather Widget**: Automatically detects your location and shows current temperature
 - **Sound Notifications**: Audio alerts when timer completes (Chime, Bell, Digital)
-- **Dark/Light Theme**: One-click theme toggle with automatic preference save
-- **Persistent Settings**: All preferences saved to localStorage
+- **Dark/Light Theme**: One-click theme toggle
+- **Keep Awake**: Prevent screen from sleeping while timer is running
+- **UI Lock**: Lock the interface to prevent accidental clicks
+- **Session Reset**: All settings reset on page refresh
 
 ## Usage
 
-Simply open `pomodoro.html` in any modern browser. No server or build step required.
+Simply open `index.html` in any modern browser. No server or build step required.
 
 ### Timer Controls
 
 - **Start/Pause**: Click the main button to start or pause the timer
 - **Reset**: Click the reset button to restart the current session
+- **Lock**: Click the lock button to prevent accidental interactions
 - **Mode Selection**: Choose between 60m, 40m, 15m, or 5m presets
 - **Quick Adjust**: Use +/− buttons or type directly to set a custom duration
 
 ### Settings
 
 Click the gear icon to access:
-- Customize each mode's duration (1-120 minutes)
+- Customize each mode's duration (no maximum limit)
 - Toggle sound on/off
 - Choose notification sound (Chime, Bell, Digital)
+- Toggle Keep Awake (prevent screen from sleeping)
 - Toggle dark mode
 
 ## How It Works
@@ -57,12 +61,12 @@ Works best in modern browsers with ES6+ support:
 
 - Pure HTML, CSS, JavaScript (no dependencies)
 - Web Audio API for sound generation
-- localStorage for settings persistence
+- Wake Lock API for preventing screen sleep
 - Open-Meteo API for weather data
 
 ## Author
 
-chatvyz
+astrovyz
 
 ## License
 
